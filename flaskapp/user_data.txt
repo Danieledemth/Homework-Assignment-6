@@ -1,0 +1,26 @@
+{
+    "emmanuel@yahoo.com": {
+        "email": "emmanuel@yahoo.com",
+        "age": 44
+    },
+    "jesus@gmail.com": {
+        "email": "jesus@gmail.com",
+        "age": 99
+    },
+    "catherinedor@hotmail.com": {
+        "email": "catherinedor@hotmail.com",
+        "age": 67
+    },
+    "Anastasia@misis.ru": {
+        "email": "Anastasia@misis.ru",
+        "age": 44
+    },
+    "tommyslogan@yandex.com": {
+        "email": "tommyslogan@yandex.com",
+        "age": 55
+    },
+    "dadelewa22@misis.ru": {
+        "email": "dadelewa22@misis.ru",
+        "age": 25
+    }
+}
